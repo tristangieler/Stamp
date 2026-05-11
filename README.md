@@ -4,7 +4,7 @@ A generative grid sandbox. Black/white binary cells with dithered "stamps" and a
 
 Single-file HTML. WebGL2 fragment shader sampling a CPU-side cell grid. No build step, no dependencies.
 
-**Live demo:** https://YOUR_USERNAME.github.io/REPO_NAME/
+**Live demo:** https://tristangieler.github.io/Stamp
 
 ## Controls
 
